@@ -2,6 +2,7 @@ name: evemosher
 favicon: null
 layout_spectrum: 0.775843249168247
 typography_spectrum: 0.32481427025049925
+title: Eve Mosher
 cta:
   domain: null
   bucket: null
