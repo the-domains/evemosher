@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Real Cost Cafe
-datePublished: '2016-05-13T20:41:26.659Z'
-dateModified: '2016-05-13T20:37:14.358Z'
+datePublished: '2016-05-13T20:42:11.518Z'
+dateModified: '2016-05-13T20:41:56.753Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-11-real-cost-cafe.md
@@ -21,6 +21,8 @@ url: real-cost-cafe/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/64d59849-2a17-49bb-a35a-39316b207320.jpg)
+
 Real Cost Cafe
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/993bb7ae-ed84-4356-8c8d-bc69f66c0370.jpg)
 
